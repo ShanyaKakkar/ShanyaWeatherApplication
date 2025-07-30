@@ -8,9 +8,6 @@
 
 Weather Application created using ReactJS and APIs provided by OpenAPI.org.
 
-- [Contributing Guidelines](https://github.com/HridoyHazard/HazzWeather/blob/main/CONTRIBUTING.md)
-- [About Hacktoberfest](https://github.com/HridoyHazard/HazzWeather/blob/main/HACKTOBERFEST.md)
-
 ## Features
 
 - Type the name of city whose weather has to be known OR allow location access(to check weather of present location).
